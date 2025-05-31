@@ -180,6 +180,8 @@ Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
 
+drive link : https://drive.google.com/drive/folders/1aPdvomRtEZ6OpPSTfYVvK_f3_XSIuYUX?usp=sharing
+
 # Result: The Prompt of the above task executed successfully
 
 
@@ -190,5 +192,4 @@ Save different versions of the videos and compare the results to understand how 
 
 
 
-# Result:
 
